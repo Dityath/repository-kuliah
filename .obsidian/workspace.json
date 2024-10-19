@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cc120b7f948764c3",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "82f78363387e2af2",
+        "id": "b0445ddf2ccb87ff",
         "type": "tabs",
         "children": [
           {
-            "id": "ba55564638dd6258",
+            "id": "e422b0e0a443f3bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment/Raw/Fisika Dasar/Diskusi 1 (Fisika Dasar).md",
+                "file": "Assignment/Raw/Pengantar Matematika/Diskusi 1 (Pengantar Matematika).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diskusi 1 (Fisika Dasar)"
+              "title": "Diskusi 1 (Pengantar Matematika)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment/Raw/Fisika Dasar/Diskusi 1 (Fisika Dasar).md",
+                "file": "Assignment/Raw/Pengantar Matematika/Diskusi 1 (Pengantar Matematika).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diskusi 1 (Fisika Dasar)"
+              "title": "Backlinks for Diskusi 1 (Pengantar Matematika)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignment/Raw/Fisika Dasar/Diskusi 1 (Fisika Dasar).md",
+                "file": "Assignment/Raw/Pengantar Matematika/Diskusi 1 (Pengantar Matematika).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diskusi 1 (Fisika Dasar)"
+              "title": "Outgoing links from Diskusi 1 (Pengantar Matematika)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignment/Raw/Fisika Dasar/Diskusi 1 (Fisika Dasar).md"
+                "file": "Assignment/Raw/Pengantar Matematika/Diskusi 1 (Pengantar Matematika).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diskusi 1 (Fisika Dasar)"
+              "title": "Outline of Diskusi 1 (Pengantar Matematika)"
             }
           }
         ]
@@ -166,10 +166,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba55564638dd6258",
+  "active": "e422b0e0a443f3bd",
   "lastOpenFiles": [
-    "Assignment/Raw/Pengantar Matematika/Diskusi 1 (Pengantar Matematika).md",
+    "Assignment/Pengantar Matematika (MATA4101)/Sesi 1/Diskusi 1 (Pengantar Matematika).pdf",
+    "Assignment/Pengantar Matematika (MATA4101)/Sesi 1",
     "Assignment/Raw/Fisika Dasar/Diskusi 1 (Fisika Dasar).md",
+    "Assignment/Raw/Pengantar Matematika/Diskusi 1 (Pengantar Matematika).md",
+    "Images",
+    "Assignment/Pengantar Matematika (MATA4101)",
+    "Assignment/Pengantar Matematika",
+    "Excalidraw/Pengantar Matematika/diskusi 1/diagram venn E.md",
+    "Excalidraw/Pengantar Matematika/diskusi 1/diagram venn B.md",
+    "Excalidraw/Pengantar Matematika/diskusi 1/diagram venn C.md",
+    "Excalidraw/Pengantar Matematika/diskusi 1/diagram venn D.md",
+    "Excalidraw/Pengantar Matematika/diskusi 1/diagram venn A.md",
+    "Excalidraw/Pengantar Matematika/diskusi 1",
+    "Excalidraw/Pengantar Matematika",
+    "Images/Pasted image 20241018002603.png",
+    "Excalidraw",
     "Assignment/Fisika Dasar (FISD4211)/Sesi 1",
     "Notes",
     "Assignment/Fisika Dasar (FISD4211)/Sesi 1/Diskusi 1.pdf"
